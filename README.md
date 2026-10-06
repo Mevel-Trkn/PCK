@@ -3,10 +3,10 @@ CustomKernel :the open source kernel
 
 ___________________________________________
 
-THE BASİC X86 KERNEL
+THE BASİC X64 KERNEL
 
 ___________________________________________
 
-THE BASİC X86 SYSTEM
+THE BASİC X64 SYSTEM
 
 ___________________________________________
